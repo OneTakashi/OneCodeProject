@@ -1,0 +1,71 @@
+h2 {
+    color: rgb(43, 41, 41);
+    font-family: Poppins;
+    font-weight: 600;
+    cursor: auto;
+    text-align: center;
+}
+
+h5 {
+    color: rgb(43, 41, 41);
+    font-family: Poppins;
+    font-weight: 500;
+    cursor: auto;
+    text-align: center;
+    font-weight: 500;
+
+
+}
+
+header {
+    color: rgb(43, 41, 41);
+    font-family: Poppins;
+    font-weight: 600;
+    cursor: auto;
+    text-align: center;
+
+
+}
+
+#LongPG {
+    color: rgb(43, 41, 41);
+    font-family: Poppins;
+    font-weight: 600;
+    cursor: auto;
+    text-align: center;
+
+
+
+}
+
+
+button {
+    background-color: rgb(22, 22, 22);
+    color: white;
+    padding:10px 15px;
+    font-size: 10px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+  
+
+
+}
+
+#AboutTakashi {
+    background-color: antiquewhite;
+    border: 2px solid black;
+
+
+}
+
+#SoruceLinks {
+    background-color: rgb(0, 0, 0);
+    border: 2px solid black;
+    padding: 3px;
+
+
+
+
+}
